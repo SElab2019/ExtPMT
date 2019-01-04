@@ -1,1 +1,1 @@
-This directory holds 5-fold cross validation experiment results.
+cv_5fold_repo_CNN.csv is a sample report of runing 5-fold cross validation using CNN model on all dataset.

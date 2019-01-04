@@ -8,16 +8,7 @@ ML code and Data for "An Extensive Study on Cross-project Predictive Mutation Te
 * keras 2.2.4
 * tensorflow 1.10.0
 * scikit-learn 0.20.1
-* argparse
-* joblib
-* psutil
-* scipy
-* simplejson
-* xgboost
-
- ```
- pip install -r requirements.txt
- ```
+* for dependencies required for running Deep Forest, please refer to [gcForest](https://github.com/kingfengji/gcForest)
 
 ### Data ###
 
